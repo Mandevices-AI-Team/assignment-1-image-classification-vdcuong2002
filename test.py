@@ -1,3 +1,4 @@
+# Cuong dep trai sieu cap vjp pr0
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
